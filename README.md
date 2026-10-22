@@ -17,6 +17,7 @@ This repository contains solution of leetcode DSA problems
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/himanshuurawat/leetcode-solution/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -44,4 +45,8 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/himanshuurawat/leetcode-solution/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
