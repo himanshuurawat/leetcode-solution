@@ -22,6 +22,7 @@ This repository contains solution of leetcode DSA problems
 | [0029-divide-two-integers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/himanshuurawat/leetcode-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,5 +60,14 @@ This repository contains solution of leetcode DSA problems
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/himanshuurawat/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
