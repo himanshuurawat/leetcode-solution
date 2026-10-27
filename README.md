@@ -15,6 +15,7 @@ This repository contains solution of leetcode DSA problems
 | [0189-rotate-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/himanshuurawat/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/himanshuurawat/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/himanshuurawat/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
@@ -71,4 +72,8 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
