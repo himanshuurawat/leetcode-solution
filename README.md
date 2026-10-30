@@ -31,6 +31,7 @@ This repository contains solution of leetcode DSA problems
 | [0015-3sum](https://github.com/himanshuurawat/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuurawat/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/himanshuurawat/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ This repository contains solution of leetcode DSA problems
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/himanshuurawat/leetcode-solution/tree/master/1768-merge-strings-alternately) |
