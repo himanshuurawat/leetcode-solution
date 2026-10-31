@@ -14,6 +14,7 @@ This repository contains solution of leetcode DSA problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshuurawat/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/himanshuurawat/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/himanshuurawat/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/himanshuurawat/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,4 +81,8 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/himanshuurawat/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
