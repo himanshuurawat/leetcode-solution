@@ -20,6 +20,7 @@ This repository contains solution of leetcode DSA problems
 | [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/himanshuurawat/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +94,8 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/himanshuurawat/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
