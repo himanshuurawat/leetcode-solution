@@ -1,5 +1,5 @@
-class Solution(object):
-    def isSubsequence(self, s, t):
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
       i = 0
       j = 0
 
@@ -11,3 +11,4 @@ class Solution(object):
             j += 1
 
       return i == len(s)
+        
