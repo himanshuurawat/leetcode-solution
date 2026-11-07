@@ -6,6 +6,7 @@ This repository contains solution of leetcode DSA problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshuurawat/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshuurawat/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/himanshuurawat/leetcode-solution/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@ This repository contains solution of leetcode DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshuurawat/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshuurawat/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -87,6 +89,7 @@ This repository contains solution of leetcode DSA problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanshuurawat/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/himanshuurawat/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
