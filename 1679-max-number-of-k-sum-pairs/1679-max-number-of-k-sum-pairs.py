@@ -1,5 +1,10 @@
-class Solution:
-    def maxOperations(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def maxOperations(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         nums.sort()
 
         left = 0
@@ -22,4 +27,4 @@ class Solution:
             else:
                 right -= 1
 
-        return count   
+        return count    
