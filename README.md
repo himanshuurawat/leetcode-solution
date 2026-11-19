@@ -83,6 +83,7 @@ This repository contains solution of leetcode DSA problems
 | [0443-string-compression](https://github.com/himanshuurawat/leetcode-solution/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/himanshuurawat/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -109,8 +110,13 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuurawat/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
