@@ -20,6 +20,7 @@ This repository contains solution of leetcode DSA problems
 | [0334-increasing-triplet-subsequence](https://github.com/himanshuurawat/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/himanshuurawat/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuurawat/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/himanshuurawat/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/himanshuurawat/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshuurawat/leetcode-solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -109,6 +110,7 @@ This repository contains solution of leetcode DSA problems
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/himanshuurawat/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/himanshuurawat/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -118,5 +120,6 @@ This repository contains solution of leetcode DSA problems
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/himanshuurawat/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
