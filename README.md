@@ -81,6 +81,7 @@ This repository contains solution of leetcode DSA problems
 | [0151-reverse-words-in-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/himanshuurawat/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/himanshuurawat/leetcode-solution/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/himanshuurawat/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/himanshuurawat/leetcode-solution/tree/master/1768-merge-strings-alternately) |
@@ -120,6 +121,11 @@ This repository contains solution of leetcode DSA problems
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/himanshuurawat/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
