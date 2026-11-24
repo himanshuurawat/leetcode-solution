@@ -127,6 +127,7 @@ This repository contains solution of leetcode DSA problems
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/himanshuurawat/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/himanshuurawat/leetcode-solution/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -140,4 +141,8 @@ This repository contains solution of leetcode DSA problems
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/himanshuurawat/leetcode-solution/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/himanshuurawat/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
